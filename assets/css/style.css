@@ -3,4 +3,13 @@ body {
 }
 .title {
     font-family: 'MedievalSharp', cursive;
+    color: #49373A;
+    text-shadow: 1px 1px 8px black;
 }
+.box {
+    background-color: #EBE2D2;
+}
+#map {
+    height: 400px; /* The height is 400 pixels */
+    width: 100%; /* The width is the width of the web page */
+  }
